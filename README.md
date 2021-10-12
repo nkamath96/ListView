@@ -3,6 +3,8 @@
 Built an application with a list of books.
 
 Features :
+
+
 •	When clicking on one of the books, it will be directed to another page populating the Wikipedia of the book clicked.
 •	All the books have an image icon which displays the cover of the book
 •	The list of books is scrollable in both portrait and landscape mode
